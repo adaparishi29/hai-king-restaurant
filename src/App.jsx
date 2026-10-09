@@ -14,7 +14,7 @@ function App() {
   />
 
   <div className="brand-text">
-    <span className="brand-main">HAI KING</span>
+    <span className="brand-main">HAIKING</span>
     <span className="brand-sub">FAMILY RESTAURANT & GARDEN</span>
   </div>
 </div>
